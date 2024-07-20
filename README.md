@@ -4,6 +4,7 @@ I want to keep getting better at what i do, i'm currently learning Flet, a Pytho
 
 How to reach me: 
 E-mail: TJfrusciante@outlook.com
+Linkedin: https://www.linkedin.com/in/gabriel-oliveira-sant-ana-009351184
 
 <!--
 **TJfrusciante/TJfrusciante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
